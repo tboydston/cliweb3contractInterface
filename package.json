@@ -1,0 +1,14 @@
+{
+  "name": "cliWeb3contractInterface",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tracey Boydston",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "web3": "^1.3.0"
+  }
+}
